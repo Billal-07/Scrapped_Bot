@@ -1,0 +1,1731 @@
+[
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-ui-style-guide/",
+    "title": "Creating a UI style guide",
+    "author_website": "https://blog.logrocket.com/author/pratikjoglekar/",
+    "author_name": "Pratik Joglekar",
+    "date_time": "Jan 10, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/configuring-figmas-auto-layout-wrap/",
+    "title": "Configuring Figma’s auto layout wrap",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jan 9, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/handle-figmas-missing-fonts-warning/",
+    "title": "How to handle Figma’s “missing fonts” warning",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Jan 8, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/40-essential-ui-elements/",
+    "title": "A UX designer’s guide to 40 essential UI elements",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jan 5, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/every-common-ui-menu-icon/",
+    "title": "Every common UI menu icon and its use case",
+    "author_website": "https://blog.logrocket.com/author/angelafabunan/",
+    "author_name": "Angela Fabunan",
+    "date_time": "Jan 4, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/shadows-ui-design-tips-best-practices/",
+    "title": "Shadows in UI design: Tips and best practices",
+    "author_website": "https://blog.logrocket.com/author/chinwikemaduabuchi/",
+    "author_name": "Chinwike Maduabuchi",
+    "date_time": "Jan 3, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/10-ux-design-trends-2024/",
+    "title": "Designing for the future: 10 UX design trends for 2024",
+    "author_website": "https://blog.logrocket.com/author/iwalolasobowale/",
+    "author_name": "Iwalola Sobowale",
+    "date_time": "Jan 2, 2024"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-design-conferences-2024/",
+    "title": "UX design conferences in 2024: A complete list",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Dec 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-jambot-revamp-old-design/",
+    "title": "Using Figma’s Jambot AI to uplevel designs",
+    "author_website": "https://blog.logrocket.com/author/redaattarca/",
+    "author_name": "Reda Attarça",
+    "date_time": "Dec 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/data-table-design-best-practices/",
+    "title": "Data table design: Best practices for better UX",
+    "author_website": "https://blog.logrocket.com/author/rafaelbasso/",
+    "author_name": "Rafael Basso",
+    "date_time": "Dec 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/what-is-website-hero-section/",
+    "title": "What is a website’s hero section? Best practices, tips, examples",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Dec 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/importing-adobe-illustrator-files-figma/",
+    "title": "Importing Adobe Illustrator files into Figma",
+    "author_website": "https://blog.logrocket.com/author/neilnkoyock/",
+    "author_name": "Neil Nkoyock",
+    "date_time": "Dec 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-color-gradients-figma/",
+    "title": "Using color gradients in Figma",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Dec 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/finding-fixing-rage-clicks/",
+    "title": "Finding and fixing rage clicks",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Dec 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-list-design-template/",
+    "title": "UX list design made simple (with Figma template)",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Dec 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/4-ways-remove-background-figma/",
+    "title": "4 ways to remove a background in Figma",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Dec 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/adobe-wont-acquire-figma/",
+    "title": "Adobe won’t acquire Figma: What does this mean for users?",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Dec 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-practices-mobile-search-filter/",
+    "title": "Best practices for mobile search filter UX",
+    "author_website": "https://blog.logrocket.com/author/edwardchechique/",
+    "author_name": "Edward Chechique",
+    "date_time": "Dec 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-input-steppers-figma/",
+    "title": "How to design input steppers with Figma",
+    "author_website": "https://blog.logrocket.com/author/himanshuraikwar/",
+    "author_name": "Himanshu Raikwar",
+    "date_time": "Dec 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/loading-spinners-purpose-alternatives/",
+    "title": "Loading spinners: Their purpose and alternatives for better UX",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Dec 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/survey-design/",
+    "title": "Survey design: Building better surveys and avoiding pitfalls",
+    "author_website": "https://blog.logrocket.com/author/nikitisza/",
+    "author_name": "Niki Tisza",
+    "date_time": "Dec 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/importing-sketch-designs-figma/",
+    "title": "Importing Sketch designs into Figma",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Dec 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/figma-interactive-components-microinteractions/",
+    "title": "Using Figma interactive components to prototype microinteractions",
+    "author_website": "https://blog.logrocket.com/author/olgadmytryshyna/",
+    "author_name": "Olga Dmytryshyna",
+    "date_time": "Dec 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/natural-vs-reverse-scrolling/",
+    "title": "Natural vs. reverse scrolling: The history of the scrollbar",
+    "author_website": "https://blog.logrocket.com/author/kirylkavalenka/",
+    "author_name": "Kiryl Kavalenka",
+    "date_time": "Dec 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-presentations-using-figma/",
+    "title": "Creating presentations using Figma",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Dec 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/building-design-documentation/",
+    "title": "Building design documentation that will last the test of time",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Dec 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/10-figma-tips-tricks-improve-workflow/",
+    "title": "10 advanced Figma tips and tricks to improve your workflow",
+    "author_website": "https://blog.logrocket.com/author/joebernstein/",
+    "author_name": "Joe Bernstein",
+    "date_time": "Dec 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/toast-notifications/",
+    "title": "A UX designer’s guide to implementing toast notifications",
+    "author_website": "https://blog.logrocket.com/author/iwalolasobowale/",
+    "author_name": "Iwalola Sobowale",
+    "date_time": "Dec 4, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ui-card-design/",
+    "title": "UI card design: Definition, tutorial, and examples",
+    "author_website": "https://blog.logrocket.com/author/hsinjoulin/",
+    "author_name": "Hsin-Jou Lin",
+    "date_time": "Dec 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/onboarding-ux-b2b-introduction/",
+    "title": "Onboarding UX: Creating a B2B product introduction",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Nov 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/10-ux-writing-samples/",
+    "title": "10 UX writing samples for every use case",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Nov 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/drag-drop-ux-best-practices/",
+    "title": "Drag and drop UX: Best practices and tutorial",
+    "author_website": "https://blog.logrocket.com/author/redaattarca/",
+    "author_name": "Reda Attarça",
+    "date_time": "Nov 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/principles-icon-design/",
+    "title": "Principles for effective icon design",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "Nov 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/neubrutalism-web-design/",
+    "title": "Neubrutalism in web design",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Nov 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/17-figma-design-systems/",
+    "title": "17 Figma design systems you need to know about",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Nov 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-managing-styles-figma/",
+    "title": "Creating and managing styles in Figma",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "Nov 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-prototypes-figma/",
+    "title": "Creating Figma prototypes with interactions and animations",
+    "author_website": "https://blog.logrocket.com/author/chinwikemaduabuchi/",
+    "author_name": "Chinwike Maduabuchi",
+    "date_time": "Nov 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/15-figma-shortcuts/",
+    "title": "15 useful Figma shortcuts to speed up your workflow",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Nov 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/organizing-figma-files-team-collaboration/",
+    "title": "Organizing Figma files for team collaboration",
+    "author_website": "https://blog.logrocket.com/author/savinavaleria/",
+    "author_name": "Savina Valeria",
+    "date_time": "Nov 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/uizard-autodesigner/",
+    "title": "Using Uizard Autodesigner for fast wireframes",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Nov 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-mobile-breadcrumbs/",
+    "title": "Designing mobile breadcrumbs for smaller screens",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Nov 16, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/typographic-scaling/",
+    "title": "Typographic scaling: Definition, Figma tutorial, and examples",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Nov 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/empty-state-ux/",
+    "title": "Empty state UX: Designing for possibility",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Nov 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/figma-grid-features-responsive-layout/",
+    "title": "Using the Figma grid features to design a responsive layout",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Nov 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/slice-tool-figma/",
+    "title": "Using the Slice tool in Figma",
+    "author_website": "https://blog.logrocket.com/author/himanshuraikwar/",
+    "author_name": "Himanshu Raikwar",
+    "date_time": "Nov 10, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/responsive-design-figma/",
+    "title": "Responsive design in Figma: Step-by-step tutorial",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Nov 9, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/chatgpt-ux/",
+    "title": "How to use ChatGPT in UX design (with sample prompts)",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Nov 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/understanding-figmas-outline-mode/",
+    "title": "Understanding Figma’s outline mode",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Nov 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-button-states/",
+    "title": "Designing button states: Tutorial and best practices",
+    "author_website": "https://blog.logrocket.com/author/edwardchechique/",
+    "author_name": "Edward Chechique",
+    "date_time": "Nov 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/flat-design/",
+    "title": "Flat design and its relevance in today’s world",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Nov 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-text-wireframe-generators/",
+    "title": "Using text-to-wireframe generators for quick design iteration",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Nov 2, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/crop-shape-figma/",
+    "title": "How to crop a shape in Figma",
+    "author_website": "https://blog.logrocket.com/author/joebernstein/",
+    "author_name": "Joe Bernstein",
+    "date_time": "Nov 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-for-equity/",
+    "title": "Principles and strategies for equitable design",
+    "author_website": "https://blog.logrocket.com/author/neilnkoyock/",
+    "author_name": "Neil Nkoyock",
+    "date_time": "Oct 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/16-figma-templates/",
+    "title": "16 incredible Figma templates you might not know about",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Oct 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-feedback/",
+    "title": "Design feedback: How to give and receive productive feedback",
+    "author_website": "https://blog.logrocket.com/author/nikitisza/",
+    "author_name": "Niki Tisza",
+    "date_time": "Oct 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/history-international-typographic-style/",
+    "title": "The history of international typographic style — is it timeless?",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Oct 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/interaction-design/",
+    "title": "Interaction design (IxD): Definition, examples, and guide for stronger UX",
+    "author_website": "https://blog.logrocket.com/author/savinavaleria/",
+    "author_name": "Savina Valeria",
+    "date_time": "Oct 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/19-social-proof-examples/",
+    "title": "19 social proof examples for designers",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Oct 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/34-figma-plugins/",
+    "title": "34 Figma plugins to save you time at work",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "Oct 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/nesting-figma-components/",
+    "title": "Everything you need to know about nesting Figma components",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Oct 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/brainstorming-ui-concepts-ai/",
+    "title": "Brainstorming UI concepts with AI",
+    "author_website": "https://blog.logrocket.com/author/olgadmytryshyna/",
+    "author_name": "Olga Dmytryshyna",
+    "date_time": "Oct 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/transferring-figma-files-after-effects/",
+    "title": "Transferring Figma files to After Effects",
+    "author_website": "https://blog.logrocket.com/author/marcuslyra/",
+    "author_name": "Marcus Bruzzo",
+    "date_time": "Oct 16, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-pricing-page/",
+    "title": "Designing your pricing page with data-driven decisions",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Oct 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/starter-guide-behavioral-design/",
+    "title": "The starter guide to using behavioral design",
+    "author_website": "https://blog.logrocket.com/author/davidhall/",
+    "author_name": "David Hall",
+    "date_time": "Oct 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/12-ux-books-expand-skillset-2023/",
+    "title": "12 UX books to expand your skillset in 2023",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Oct 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/60-30-10-rule/",
+    "title": "Master UI design: Enhance aesthetics with the 60-30-10 rule",
+    "author_website": "https://blog.logrocket.com/author/himanshuraikwar/",
+    "author_name": "Himanshu Raikwar",
+    "date_time": "Oct 10, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/converting-figma-files-wordpress/",
+    "title": "Converting Figma files to WordPress",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Oct 9, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/speculative-design/",
+    "title": "Speculative design: Powering product direction with imagination",
+    "author_website": "https://blog.logrocket.com/author/kirylkavalenka/",
+    "author_name": "Kiryl Kavalenka",
+    "date_time": "Oct 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/use-heatmaps-improve-ux/",
+    "title": "How to use heatmaps to improve UX",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Oct 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/mastering-ux-design-challenges-interviews/",
+    "title": "Mastering UX design challenges in interviews",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Oct 4, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/crafting-strategic-ux-roadmap/",
+    "title": "Crafting a strategic UX roadmap: Key components and best practices",
+    "author_website": "https://blog.logrocket.com/author/redaattarca/",
+    "author_name": "Reda Attarça",
+    "date_time": "Oct 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-styling-figma-tables/",
+    "title": "Creating and styling Figma tables",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Oct 2, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/15-solutions-common-ux-problems/",
+    "title": "15 solutions to common UX problems",
+    "author_website": "https://blog.logrocket.com/author/omarraddaoui/",
+    "author_name": "Omar Raddaoui",
+    "date_time": "Sep 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/mastering-user-guidance-directional-cues/",
+    "title": "Mastering user guidance with directional cues",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Sep 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/turning-errors-opportunities-designing-404-pages/",
+    "title": "Turning errors into opportunities: Designing 404 pages",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Sep 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-seamless-checkout-flow/",
+    "title": "Designing a seamless checkout flow: Definition, best practices, case studies",
+    "author_website": "https://blog.logrocket.com/author/chinwikemaduabuchi/",
+    "author_name": "Chinwike Maduabuchi",
+    "date_time": "Sep 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/one-tailed-vs-two-tailed-tests-ux/",
+    "title": "One-tailed vs. two-tailed tests in UX: When to use each",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Sep 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/mastering-ideation-sessions-for-innovative-solutions/",
+    "title": "Mastering ideation sessions for innovative solutions",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Sep 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/balancing-desirability-feasibility-viability/",
+    "title": "Balancing desirability, feasibility, and viability in UX",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Sep 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/fogg-behavior-model/",
+    "title": "The Fogg Behavior Model: Definition, use cases, case study",
+    "author_website": "https://blog.logrocket.com/author/hsinjoulin/",
+    "author_name": "Hsin-Jou Lin",
+    "date_time": "Sep 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/midjourney-ui-design/",
+    "title": "Midjourney for UI design: Prompts, tips, and ethics",
+    "author_website": "https://blog.logrocket.com/author/edwardchechique/",
+    "author_name": "Edward Chechique",
+    "date_time": "Sep 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/managing-design-debt-strategies/",
+    "title": "Managing design debt: Strategies for sustainable user experience",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Sep 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/writing-problem-statements-ux/",
+    "title": "Writing problem statements in UX: Definition, example, template",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Sep 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-design-systems/",
+    "title": "Unveiling the best design systems: Principles, examples, and key takeaways",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Sep 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/use-ai-faster-prototyping/",
+    "title": "How to use AI for faster prototyping",
+    "author_website": "https://blog.logrocket.com/author/redaattarca/",
+    "author_name": "Reda Attarça",
+    "date_time": "Sep 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/12-best-ux-design-courses/",
+    "title": "12 best UX design courses",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Sep 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/what-is-content-design/",
+    "title": "What is content design? Bridging storytelling and user experience",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Sep 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/heuristic-evaluation-definition-case-study-template/",
+    "title": "Heuristic evaluation: Definition, case study, template",
+    "author_website": "https://blog.logrocket.com/author/marcosrezende/",
+    "author_name": "Marcos Rezende",
+    "date_time": "Sep 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conceptual-design-definition/",
+    "title": "Conceptual design: Definition, step-by-step breakdown",
+    "author_website": "https://blog.logrocket.com/author/savinavaleria/",
+    "author_name": "Savina Valeria",
+    "date_time": "Sep 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/label-ux-definition/",
+    "title": "Label UX: Definition, best practices, examples",
+    "author_website": "https://blog.logrocket.com/author/nikitisza/",
+    "author_name": "Niki Tisza",
+    "date_time": "Sep 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/casing-letters-enhances-visual-hierarchy/",
+    "title": "How correctly casing letters enhances visual hierarchy and UX",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Sep 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/implementing-sso-login-flows/",
+    "title": "Implementing SSO for login flows",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Sep 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/captcha-ux/",
+    "title": "CAPTCHA UX: Why CAPTCHA is bad and its alternatives",
+    "author_website": "https://blog.logrocket.com/author/angelafabunan/",
+    "author_name": "Angela Fabunan",
+    "date_time": "Aug 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/recognition-vs-recall/",
+    "title": "Recognition vs. recall: Leveraging cognitive processes in user interfaces",
+    "author_website": "https://blog.logrocket.com/author/marcuslyra/",
+    "author_name": "Marcus Bruzzo",
+    "date_time": "Aug 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/bottom-sheets-optimized-ux/",
+    "title": "How to design bottom sheets for optimized user experience",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Aug 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/use-variables-figma/",
+    "title": "How to use variables in Figma",
+    "author_website": "https://blog.logrocket.com/author/joebernstein/",
+    "author_name": "Joe Bernstein",
+    "date_time": "Aug 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/goal-gradient-effect/",
+    "title": "The goal gradient effect: Boosting user engagement",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Aug 24, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/10-best-design-systems/",
+    "title": "10 of the best design systems to gain inspiration from",
+    "author_website": "https://blog.logrocket.com/author/olgadmytryshyna/",
+    "author_name": "Olga Dmytryshyna",
+    "date_time": "Aug 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-documentation-guide-best-practices-template/",
+    "title": "UX documentation: Guide, best practices, template",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Aug 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/whats-peak-end-rule/",
+    "title": "What’s the peak-end rule? How to use it to improve UX",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Aug 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/32-universal-icons/",
+    "title": "32 universal icons for a cross-culturally clear UI",
+    "author_website": "https://blog.logrocket.com/author/betimzaman/",
+    "author_name": "Betim Zaman",
+    "date_time": "Aug 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/making-dashboard-ui/",
+    "title": "Dashboard UI: Tutorial, best practices, examples",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Aug 16, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-sign-up-page-examples/",
+    "title": "Best sign-up page examples from prominent companies",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Aug 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/create-perfect-design-hypothesis/",
+    "title": "How to create a perfect design hypothesis",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Aug 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-design-frameworks-types/",
+    "title": "UX design frameworks: Types and use cases for each",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Aug 10, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/avoiding-banner-blindness-designing-attention/",
+    "title": "Avoiding banner blindness: Designing for attention in UX",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Aug 9, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/use-system-usability-scale-modern-ux/",
+    "title": "How to use the System Usability Scale in modern UX",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Aug 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/aspect-ratios-ux-design/",
+    "title": "Aspect ratios in UX design: Tips, guide, and case study",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Aug 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-constraints-why-theyre-useful/",
+    "title": "Design constraints: Why they’re actually useful",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Aug 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/nail-ux-design-interview/",
+    "title": "How to nail a UX design interview",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Aug 4, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-figmas-sections-feature/",
+    "title": "Using Figma’s Sections feature for better organization",
+    "author_website": "https://blog.logrocket.com/author/lucalongo/",
+    "author_name": "Luca Longo",
+    "date_time": "Aug 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/applying-gestalt-principles-ux-design/",
+    "title": "Applying gestalt principles in UX design",
+    "author_website": "https://blog.logrocket.com/author/davidhall/",
+    "author_name": "David Hall",
+    "date_time": "Aug 2, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/landing-page-patterns-success/",
+    "title": "Landing page patterns for success in any industry",
+    "author_website": "https://blog.logrocket.com/author/olgadmytryshyna/",
+    "author_name": "Olga Dmytryshyna",
+    "date_time": "Aug 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/run-ux-writing-review-with-non-writers/",
+    "title": "How to run a UX writing review with non-writers",
+    "author_website": "https://blog.logrocket.com/author/jenninadler/",
+    "author_name": "Jenni Nadler",
+    "date_time": "Jul 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-certificates-boost-ux-design-career/",
+    "title": "Best certificates to boost your UX design career",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jul 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-clear-visual-design-strategy/",
+    "title": "Visual design strategy in UX: Principles, tutorial, template",
+    "author_website": "https://blog.logrocket.com/author/derekboman/",
+    "author_name": "Derek Boman",
+    "date_time": "Jul 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conduct-effective-design-retrospective/",
+    "title": "How to conduct an effective design retrospective",
+    "author_website": "https://blog.logrocket.com/author/rossdillon/",
+    "author_name": "Ross Dillon",
+    "date_time": "Jul 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/step-by-step-guide-five-second-testing-ux/",
+    "title": "Five-second testing in UX: Guide, tips, template",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jul 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-form-validation-inline-after-submission/",
+    "title": "The UX of form validation: Inline or after submission?",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Jul 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/applying-ux-honeycomb-modern-website/",
+    "title": "Applying the UX honeycomb for a modern website",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jul 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-vs-ui-designer/",
+    "title": "UX vs. UI designers: What’s the difference?",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jul 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/undo-component-figma/",
+    "title": "How to undo a component in Figma",
+    "author_website": "https://blog.logrocket.com/author/lucalongo/",
+    "author_name": "Luca Longo",
+    "date_time": "Jul 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/principles-design-emphasis/",
+    "title": "Principles of design emphasis for standout design",
+    "author_website": "https://blog.logrocket.com/author/neilnkoyock/",
+    "author_name": "Neil Nkoyock",
+    "date_time": "Jul 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-persuasive-design-responsibly/",
+    "title": "Using persuasive design responsibly",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jul 24, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/affordances-ux-design/",
+    "title": "What are affordances in UX design?",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Jul 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/common-ux-dark-patterns-avoid/",
+    "title": "Common UX dark patterns to avoid",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jul 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/understanding-user-stories/",
+    "title": "Understanding user stories in UX design",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Jul 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/whats-design-sprint/",
+    "title": "What’s a design sprint and how to conduct one",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jul 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-use-magic-links/",
+    "title": "How to use magic links for better UX",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jul 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/responsive-design-guide/",
+    "title": "Responsive UX design guide: From mobile to desktop",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Jul 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/session-replay-ux-definition-use-cases-benefits/",
+    "title": "Session replay in UX: Definition, use cases, benefits",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Jul 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/figma-groups-frames-sections/",
+    "title": "Figma groups vs. frames vs. sections: When to use each",
+    "author_website": "https://blog.logrocket.com/author/betimzaman/",
+    "author_name": "Betim Zaman",
+    "date_time": "Jul 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/organizing-categorizing-content-information-architecture/",
+    "title": "Organizing and categorizing content in information architecture",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jul 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/experience-design-memorable-ux/",
+    "title": "Focusing on experience design for a memorable UX",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Jul 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/socialization-process-how-design-success/",
+    "title": "UX design socialization process: How do we design for success?",
+    "author_website": "https://blog.logrocket.com/author/omarraddaoui/",
+    "author_name": "Omar Raddaoui",
+    "date_time": "Jul 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/understanding-ab-testing-ux-research/",
+    "title": "Understanding A/B testing in UX research",
+    "author_website": "https://blog.logrocket.com/author/kirylkavalenka/",
+    "author_name": "Kiryl Kavalenka",
+    "date_time": "Jul 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-practices-designing-ethical-ai-user-interfaces/",
+    "title": "Best practices for designing ethical AI user interfaces",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jul 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/t-shaped-ux-designer/",
+    "title": "Who’s a T-shaped UX designer and how can you become one?",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jul 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-painless-2fa-user-flow/",
+    "title": "Creating a painless 2FA user flow: Guide, examples, checklist",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Jul 4, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/10-usability-testing-tools-ux-team/",
+    "title": "10 usability testing tools for your UX team",
+    "author_website": "https://blog.logrocket.com/author/hsinjoulin/",
+    "author_name": "Hsin-Jou Lin",
+    "date_time": "Jul 4, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-designers-guide-opportunity-solution-trees/",
+    "title": "A UX designer’s guide to opportunity solution trees",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jul 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-hicks-law-help-users-make-decisions/",
+    "title": "Using Hick’s Law to help users make decisions",
+    "author_website": "https://blog.logrocket.com/author/olgadmytryshyna/",
+    "author_name": "Olga Dmytryshyna",
+    "date_time": "Jun 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-designers-guide-inclusive-design/",
+    "title": "A UX designer’s guide to inclusive design",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jun 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/7-figma-courses-advance-ux-career/",
+    "title": "7 Figma courses to advance your UX career",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jun 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/user-interview-questions-library/",
+    "title": "User interview questions library: 23 example questions",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jun 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/jakobs-law-creating-user-centric-interfaces/",
+    "title": "Jakob’s Law: Creating familiar and user-centric interfaces",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jun 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/5-best-design-handoff-tools/",
+    "title": "5 best design handoff tools for simple design-to-code",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Jun 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-find-recruit-ux-research-participants/",
+    "title": "How to find and recruit UX research participants",
+    "author_website": "https://blog.logrocket.com/author/chinweuzegbu/",
+    "author_name": "Chinwe Uzegbu",
+    "date_time": "Jun 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/use-miro-creating-ux-sitemaps/",
+    "title": "How to use Miro for creating UX sitemaps",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jun 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/run-great-workshops-ux-designer/",
+    "title": "How to run great workshops as a UX designer",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jun 16, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/craft-visual-aesthetic-right-way/",
+    "title": "How to craft a visual aesthetic the right way",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Jun 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/measuring-ease-of-use-ux/",
+    "title": "Measuring ease of use in UX",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jun 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/tabbed-navigation-ux/",
+    "title": "Tabbed navigation in UX: Where and when to use it",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jun 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/analytics-track-user-metrics/",
+    "title": "Analytics for UX designers: How to track user metrics",
+    "author_website": "https://blog.logrocket.com/author/lucalongo/",
+    "author_name": "Luca Longo",
+    "date_time": "Jun 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/leader-spotlight-juan-carlos-pontaza/",
+    "title": "Leader Spotlight: Promoting diversity in UI/UX, with Juan Carlos Pontaza",
+    "author_website": "https://blog.logrocket.com/author/jessicasrinivas/",
+    "author_name": "Jessica Srinivas",
+    "date_time": "Jun 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-analysis-gamification/",
+    "title": "Gamification in UX: Increasing engagement through games",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Jun 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-progressive-disclosure-complex-content/",
+    "title": "Using progressive disclosure for complex content",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jun 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-collaborate-with-product-manager/",
+    "title": "How to collaborate with a product manager as a UX designer",
+    "author_website": "https://blog.logrocket.com/author/bartkrawczyk/",
+    "author_name": "Bart Krawczyk",
+    "date_time": "Jun 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conducting-focus-group-ux-research/",
+    "title": "Conducting a focus group for UX research",
+    "author_website": "https://blog.logrocket.com/author/yaroslavmalymon/",
+    "author_name": "Yaroslav Malymon",
+    "date_time": "Jun 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conducting-diary-study-understand-user-behavior/",
+    "title": "Conducting a diary study to understand user behavior",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Jun 2, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/essential-gui-design-principles/",
+    "title": "Essential GUI design principles",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Jun 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/leader-spotlight-mustafa-altay/",
+    "title": "Leader Spotlight: Experience-driven culture, with Mustafa Altay",
+    "author_website": "https://blog.logrocket.com/author/jessicasrinivas/",
+    "author_name": "Jessica Srinivas",
+    "date_time": "Jun 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-get-candid-answers-guerilla-usability-testing/",
+    "title": "How to get candid answers with guerilla usability testing",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "May 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-use-figma-branching-properly/",
+    "title": "How to use Figma branching properly",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "May 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-perform-ux-content-inventory/",
+    "title": "How to perform a UX content inventory",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "May 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/applying-negative-space-web-design/",
+    "title": "Applying negative space in web design",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "May 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/prototyping-using-design-system/",
+    "title": "Prototyping using a design system",
+    "author_website": "https://blog.logrocket.com/author/carlotaanton/",
+    "author_name": "Carlota Antón",
+    "date_time": "May 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/essential-elements-login-screen/",
+    "title": "The essential elements of login screen UI design",
+    "author_website": "https://blog.logrocket.com/author/davidhall/",
+    "author_name": "David Hall",
+    "date_time": "May 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/readability-ux-what-is-it-why-is-it-important/",
+    "title": "Readability in UX: What is it and why is it important?",
+    "author_website": "https://blog.logrocket.com/author/angelafabunan/",
+    "author_name": "Angela Fabunan",
+    "date_time": "May 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/step-by-step-breakdown-ux-design-process/",
+    "title": "A step-by-step breakdown of the UX design process",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "May 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-figma-smart-animate-prototype-animations/",
+    "title": "Using Figma smart animate to prototype animations",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "May 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-chatbot-customers-will-use/",
+    "title": "How to design a chatbot customers will actually use",
+    "author_website": "https://blog.logrocket.com/author/meliketoygar/",
+    "author_name": "Melike Ceren Inan Toygar",
+    "date_time": "May 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/employ-unmoderated-usability-testing/",
+    "title": "How to employ unmoderated usability testing",
+    "author_website": "https://blog.logrocket.com/author/betimzaman/",
+    "author_name": "Betim Zaman",
+    "date_time": "May 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-companys-design-vision/",
+    "title": "Looking forward: Creating your company’s design vision for the future",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "May 10, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/writing-clear-error-messages-ux-guidelines-examples/",
+    "title": "Writing clear error messages: UX guidelines and examples",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "May 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/applying-constraints-figma-layouts-resizing/",
+    "title": "Applying constraints to Figma layouts for resizing",
+    "author_website": "https://blog.logrocket.com/author/chinwikemaduabuchi/",
+    "author_name": "Chinwike Maduabuchi",
+    "date_time": "May 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/configuring-horizontal-vertical-scrolling-figma/",
+    "title": "Configuring horizontal and vertical scrolling in Figma",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "May 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-better-tooltips-improved-ux/",
+    "title": "Designing better tooltips for improved UX",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "May 2, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-practices-discoverability-ux/",
+    "title": "Best practices for discoverability in UX",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Apr 27, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-headless-design-system-figma/",
+    "title": "Creating a headless design system using Figma",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Apr 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/b2b-vs-b2c-ux-design/",
+    "title": "B2B vs. B2C UX design: Same steps, a different approach",
+    "author_website": "https://blog.logrocket.com/author/olesiavdovenko/",
+    "author_name": "Olesia Vdovenko",
+    "date_time": "Apr 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-layer-masks-figma/",
+    "title": "Using layer masks correctly in Figma",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Apr 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-research-methods/",
+    "title": "UX research methods: Deciding which to use for your project",
+    "author_website": "https://blog.logrocket.com/author/yaroslavmalymon/",
+    "author_name": "Yaroslav Malymon",
+    "date_time": "Apr 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-practices-website-footer-ux/",
+    "title": "Best practices for website footer UX",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Apr 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designers-guide-developer-handoffs-figma/",
+    "title": "A designer’s guide to developer handoffs with Figma",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Apr 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/11-figma-widgets-speed-up-workflow/",
+    "title": "11 Figma widgets to speed up your workflow",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Apr 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/determining-ux-maturity/",
+    "title": "Determining your company’s UX maturity stage",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Apr 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/empathy-mapping-ux-put-yourself-users-shoes/",
+    "title": "Empathy mapping in UX: How to put yourself in users’ shoes",
+    "author_website": "https://blog.logrocket.com/author/hazaraki/",
+    "author_name": "Hazar Aki",
+    "date_time": "Apr 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/8-figma-plugins-design-system-management/",
+    "title": "8 Figma plugins for design system management",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Apr 11, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/create-user-experience-map/",
+    "title": "How to create a user experience map",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "Apr 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-friction-using-friction-better-ux/",
+    "title": "Design friction: Using friction for better UX",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Apr 4, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-feature-comparison-tables/",
+    "title": "How to design feature comparison tables that simplify decision-making",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Apr 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-task-analysis-improve-ux-design/",
+    "title": "Using task analysis to improve your UX design",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Mar 31, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/skeuomorphism-ux-what-it-is-why-it-disappeared/",
+    "title": "Skeuomorphism in UX: What it is and why it disappeared",
+    "author_website": "https://blog.logrocket.com/author/angelafabunan/",
+    "author_name": "Angela Fabunan",
+    "date_time": "Mar 29, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-enterprise-personas-b2b-ux/",
+    "title": "Creating enterprise personas for B2B UX",
+    "author_website": "https://blog.logrocket.com/author/ilmaandrade/",
+    "author_name": "Ilma Andrade",
+    "date_time": "Mar 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conduct-heuristic-evaluation-tutorial/",
+    "title": "Conduct a heuristic evaluation: Step-by-step tutorial and tips",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Mar 24, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-designers-guide-implementing-push-notifications/",
+    "title": "A UX designer’s guide to implementing push notifications",
+    "author_website": "https://blog.logrocket.com/author/yaroslavmalymon/",
+    "author_name": "Yaroslav Malymon",
+    "date_time": "Mar 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/storytelling-designing-user-journey-ux-story-mapping/",
+    "title": "Storytelling: Designing the user’s journey with UX story mapping",
+    "author_website": "https://blog.logrocket.com/author/davidhall/",
+    "author_name": "David Hall",
+    "date_time": "Mar 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/faceted-filtering-better-ecommerce-experiences/",
+    "title": "Faceted filtering for better ecommerce experiences",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Mar 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ai-ux-design-how-to-leverage-ai/",
+    "title": "AI in UX design: How to leverage AI and how far it’ll get you",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Mar 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-build-accessible-design-system/",
+    "title": "How to build an accessible design system",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Mar 14, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-conduct-ux-survey/",
+    "title": "How to design and conduct a UX survey",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Mar 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-ghost-buttons-effective-ctas/",
+    "title": "Using ghost buttons in UX design for effective CTAs",
+    "author_website": "https://blog.logrocket.com/author/joebernstein/",
+    "author_name": "Joe Bernstein",
+    "date_time": "Mar 9, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-ux-teams-can-use-jtbd-framework/",
+    "title": "How UX teams can use the Jobs-to-be-Done framework",
+    "author_website": "https://blog.logrocket.com/author/derekboman/",
+    "author_name": "Derek Boman",
+    "date_time": "Mar 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/making-smarter-ux-design-decisions-cynefin-framework/",
+    "title": "Making smarter UX design decisions with the Cynefin framework",
+    "author_website": "https://blog.logrocket.com/author/davidhall/",
+    "author_name": "David Hall",
+    "date_time": "Mar 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conducting-ux-design-critiques-helpful-insights/",
+    "title": "Conducting UX design critiques for helpful insights",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Mar 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/building-intentional-iterative-ux-design-process/",
+    "title": "Building an intentional iterative UX design process",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Mar 1, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/making-complex-design-system-tokens-studio-figma/",
+    "title": "Making a complex design system with Tokens Studio for Figma",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Feb 28, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-affinity-diagramming-collaborating-ux-design/",
+    "title": "Using affinity diagramming for collaborating in UX design",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Feb 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-accordion-menus-complex-content/",
+    "title": "Designing accordion menus for complex content",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "Feb 22, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/open-closed-hybrid-card-sorting-ux-research/",
+    "title": "Open vs. closed vs. hybrid card sorting for UX research",
+    "author_website": "https://blog.logrocket.com/author/edwardchechique/",
+    "author_name": "Edward Chechique",
+    "date_time": "Feb 21, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/making-website-scannable-better-ux/",
+    "title": "Making your website scannable for better UX",
+    "author_website": "https://blog.logrocket.com/author/olesiavdovenko/",
+    "author_name": "Olesia Vdovenko",
+    "date_time": "Feb 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/creating-frictionless-user-onboarding-experience/",
+    "title": "Creating a frictionless user onboarding experience",
+    "author_website": "https://blog.logrocket.com/author/meliketoygar/",
+    "author_name": "Melike Ceren Inan Toygar",
+    "date_time": "Feb 17, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/modern-double-diamond-design/",
+    "title": "Modern Double Diamond design: Rethinking a classic design process",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Feb 16, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/conducting-ux-benchmarking-study/",
+    "title": "Conducting a UX benchmarking study step by step",
+    "author_website": "https://blog.logrocket.com/author/yaroslavmalymon/",
+    "author_name": "Yaroslav Malymon",
+    "date_time": "Feb 15, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/carousel-ux-designing-carousels-attract-users/",
+    "title": "Carousel UX: Designing carousels that attract your users",
+    "author_website": "https://blog.logrocket.com/author/ilmaandrade/",
+    "author_name": "Ilma Andrade",
+    "date_time": "Feb 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/making-website-mockup-figma/",
+    "title": "Making a website mockup in Figma",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Feb 10, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/primary-vs-secondary-navigation/",
+    "title": "Primary vs. secondary navigation: Does your site need secondary?",
+    "author_website": "https://blog.logrocket.com/author/rosieallabarton/",
+    "author_name": "Rosie Allabarton",
+    "date_time": "Feb 9, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/tree-testing-valuable-ux-research-method/",
+    "title": "Tree testing: A valuable UX research method",
+    "author_website": "https://blog.logrocket.com/author/renaissancerachel/",
+    "author_name": "Renaissance Rachel",
+    "date_time": "Feb 8, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-contextual-inquiry-ux-research/",
+    "title": "Using contextual inquiry in UX research",
+    "author_website": "https://blog.logrocket.com/author/meliketoygar/",
+    "author_name": "Melike Ceren Inan Toygar",
+    "date_time": "Feb 7, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/app-designers-guide-responsive-mobile-ux/",
+    "title": "An app designer’s guide to responsive mobile UX",
+    "author_website": "https://blog.logrocket.com/author/ericchung/",
+    "author_name": "Eric Chung",
+    "date_time": "Feb 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-design-nondestructive-cancel-buttons/",
+    "title": "How to design nondestructive cancel buttons",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Feb 2, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-use-breadcrumbs-clear-website-navigation/",
+    "title": "How to use breadcrumbs for clear website navigation",
+    "author_website": "https://blog.logrocket.com/author/rossdillon/",
+    "author_name": "Ross Dillon",
+    "date_time": "Jan 30, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/search-filter-principles-better-ux/",
+    "title": "Search filter principles for better UX",
+    "author_website": "https://blog.logrocket.com/author/chinwikemaduabuchi/",
+    "author_name": "Chinwike Maduabuchi",
+    "date_time": "Jan 26, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-usability-testing-can-inform-ux-teams/",
+    "title": "How usability testing can inform UX teams",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Jan 25, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/guide-visual-hierarchy/",
+    "title": "A guide to visual hierarchy in UX design",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Jan 24, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/mastering-ux-user-interviews/",
+    "title": "Mastering UX user interviews: Guide, tips, and examples",
+    "author_website": "https://blog.logrocket.com/author/edwardchechique/",
+    "author_name": "Edward Chechique",
+    "date_time": "Jan 23, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-get-design-system-under-control/",
+    "title": "How to get your design system under control",
+    "author_website": "https://blog.logrocket.com/author/alexmandel/",
+    "author_name": "Alex Mandel",
+    "date_time": "Jan 20, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-component-properties-figma/",
+    "title": "Using component properties in Figma",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Jan 19, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-search-bar-intuitive-autocomplete/",
+    "title": "Design a search bar with intuitive autocomplete",
+    "author_website": "https://blog.logrocket.com/author/ilmaandrade/",
+    "author_name": "Ilma Andrade",
+    "date_time": "Jan 18, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-ux-user-flow-app/",
+    "title": "Designing a UX user flow for your app",
+    "author_website": "https://blog.logrocket.com/author/marcuslyra/",
+    "author_name": "Marcus Bruzzo",
+    "date_time": "Jan 16, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-landing-page-ux-rule-thirds/",
+    "title": "Designing a landing page with the UX rule of thirds",
+    "author_website": "https://blog.logrocket.com/author/angelafabunan/",
+    "author_name": "Angela Fabunan",
+    "date_time": "Jan 13, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-figma-auto-layout/",
+    "title": "Using Figma’s auto layout",
+    "author_website": "https://blog.logrocket.com/author/oriolbanus/",
+    "author_name": "Oriol Banús",
+    "date_time": "Jan 12, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-behavioral-attitudinal-data/",
+    "title": "Using behavioral and attitudinal data in UX design",
+    "author_website": "https://blog.logrocket.com/author/andrewschall/",
+    "author_name": "Andrew Schall",
+    "date_time": "Jan 9, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/implementing-modal-windows-that-dont-hurt-ux/",
+    "title": "Implementing modal windows that don’t hurt UX",
+    "author_website": "https://blog.logrocket.com/author/tanzirrahman/",
+    "author_name": "Tanzir Rahman",
+    "date_time": "Jan 6, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/making-clear-navigation-menus-better-ux/",
+    "title": "Making clear website navigation menus for better UX",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Jan 5, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/wireframing-responsive-design-good-ux/",
+    "title": "Wireframing for responsive design and good UX",
+    "author_website": "https://blog.logrocket.com/author/anthonyconta/",
+    "author_name": "Anthony Conta",
+    "date_time": "Jan 3, 2023"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/better-form-design-ux-tips-tools-tutorial/",
+    "title": "Better form design: UX tips, tools, and tutorial",
+    "author_website": "https://blog.logrocket.com/author/joebernstein/",
+    "author_name": "Joe Bernstein",
+    "date_time": "Dec 30, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/how-to-create-ux-sitemap/",
+    "title": "How to create a UX sitemap",
+    "author_website": "https://blog.logrocket.com/author/victorybrown/",
+    "author_name": "Victory Brown",
+    "date_time": "Dec 26, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/optimizing-images-mobile-browsers-ux-mindset/",
+    "title": "Optimizing images for mobile browsers with a UX mindset",
+    "author_website": "https://blog.logrocket.com/author/ryanfeigenbaum/",
+    "author_name": "Ryan Feigenbaum",
+    "date_time": "Dec 21, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/design-cta-buttons-ux-best-practices/",
+    "title": "How to design CTA buttons: UX best practices",
+    "author_website": "https://blog.logrocket.com/author/danielschwarz/",
+    "author_name": "Daniel Schwarz",
+    "date_time": "Dec 20, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/pagination-vs-infinite-scroll-ux/",
+    "title": "Pagination vs. infinite scroll: Making the right decision for UX",
+    "author_website": "https://blog.logrocket.com/author/chinwikemaduabuchi/",
+    "author_name": "Chinwike Maduabuchi",
+    "date_time": "Dec 15, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/designing-microinteractions-better-app-ux/",
+    "title": "Designing microinteractions for better app UX",
+    "author_website": "https://blog.logrocket.com/author/renaissancerachel/",
+    "author_name": "Renaissance Rachel",
+    "date_time": "Dec 9, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/5-keys-lean-ux-principle-driven-design/",
+    "title": "5 keys to Lean UX and principle-driven design",
+    "author_website": "https://blog.logrocket.com/author/brandondorn/",
+    "author_name": "Brandon Dorn",
+    "date_time": "Dec 7, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/using-fitts-law-guide-users-app/",
+    "title": "Using Fitt’s law to effectively guide users through your app",
+    "author_website": "https://blog.logrocket.com/author/srikarsuresh/",
+    "author_name": "Srikar Suresh",
+    "date_time": "Dec 6, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/best-tools-create-effective-toggle-buttons/",
+    "title": "The best tools to create effective toggle buttons",
+    "author_website": "https://blog.logrocket.com/author/chriskernaghan/",
+    "author_name": "Chris Kernaghan",
+    "date_time": "Dec 5, 2022"
+  },
+  {
+    "article_url": "https://blog.logrocket.com/ux-design/ux-grid-system-principles-best-practices/",
+    "title": "The modern UX grid system: Principles and best practices",
+    "author_website": "https://blog.logrocket.com/author/renaissancerachel/",
+    "author_name": "Renaissance Rachel",
+    "date_time": "Dec 1, 2022"
+  }
+]

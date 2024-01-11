@@ -55,7 +55,7 @@ def extract_and_save_class_data(url, class_name, output_filename):
         print(f"Failed to retrieve the webpage. Status code: {response.status_code}")
 
 # Example usage:
-url_to_scrape = "https://blog.logrocket.com/page/4/"
+url_to_scrape = "https://blog.logrocket.com/page/13/"
 class_to_extract = "post-card"
 output_file_name = "saved_data.json"
 extract_and_save_class_data(url_to_scrape, class_to_extract, output_file_name)
